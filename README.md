@@ -20,6 +20,10 @@ It focuses on building an article search system that can measure the relevance o
 - pip
 - Internet access for installing dependencies (if required)
 
+## Datasets
+
+The projects uses a dataset of articles that downloaded from [Here](https://zenodo.org/records/21533279?preview_file=full_articles.csv). The dataset contains a collection of articles that will be used for testing the search system.
+
 ## Setup
 
 Create and activate a virtual environment:
