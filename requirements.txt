@@ -3,3 +3,6 @@ pandas
 Sastrawi
 lingua-language-detector
 tqdm
+scikit-learn
+scipy
+joblib
