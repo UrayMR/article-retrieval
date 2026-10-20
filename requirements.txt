@@ -1,5 +1,6 @@
 ipykernel
 pandas
+nltk
 Sastrawi
 lingua-language-detector
 tqdm
